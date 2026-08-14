@@ -12,3 +12,8 @@ git branch -M main (to rename branch)
 git checkout <-- branch main -- > (to navigate)
 git checkout -b <-- name of new branch -- > (to create new branch)
 git branch -d <-- branch name -- > (to delete branch)
+
+merging code
+way 1
+git diff <- branch name -- > (to compare commits, branches, files and more ... )
+git merge <-- branch name -- > (to merge 2 branches)
